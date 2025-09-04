@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://hotdog9019.github.io/gummy-bear/)
+- [Публичная страница на GitHub Pages](https://hotdog9019.github.io/gummy-bear/src/index.html)
